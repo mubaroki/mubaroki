@@ -1,6 +1,5 @@
 - 👋 Hi, you can call me Oki
 - 👀 I’m interested in DevOps & IT Project Management
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on PT Razen Teknologi Indonesia
 - 📫 You can reach me in an@mubaroki.com
 
